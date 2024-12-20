@@ -4,7 +4,7 @@ import Skills from '@/components/skills'
 import Projects from '@/components/projects'
 
 export const metadata: Metadata = {
-  title: 'Simple Portfolio',
+  title: "Amirreza Ghahremani's Portfolio",
   description: 'A showcase of my skills and projects',
 }
 
